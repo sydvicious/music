@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>chordProgression</key>
+		<string>{*AT44E^7 G#7/D# |C#-7 B7 |Bb7   |Eb^7 sEb-7,Ab7,|lDb^7 F7/C |Bb-7 Ab7 |G7   |C^7   }[*BCh7   |F7b9   |F#-7   |B7   |E^7   | x  |F-7   |Bb7   ][*AE^7 G#7/D# |C#-7 B7 |Bb7   |Eb^7 sEb-7,Ab7,|lDb^7 F7/C |Bb-7 Ab7 |G7   |C^7   Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C</string>
+		<key>style</key>
+		<string>Afro</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Afro 1</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[*AT44C-7   | x  | x  | x  |C-7   |F7   |Bb7   | x  |Eb-7   | x Q | x  | x  |Eb-7   |Ab7   |Db7#11   | x  ][*BC#-7   |F#7 F#7alt |B-7   | x  |B-7   |E7 E7alt |A-7   | x  |A-7   |D7 D7alt |G-7   | x  |Eh7   |Eb7   |D7alt   |&lt;D.C. al Coda&gt;G7alt   ]       Q |B7#11   | x  |F7alt   |Bb7alt   |UEb-^7   | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C-</string>
+		<key>style</key>
+		<string>Afro</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Afro 2</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>{*AT44Eb-7 Bb7b13 |Eb-7 Ab7 |Db^7 Gb7 |F-7 Eo7 |Eb-7 Eb-7/Db |Ch7 F7b9 |Bb-7 sEb-7,Ab7,|N1sDb6,Gb7,Fh,Bb7}            |N2lDb6 sE-7,A7][*BlD^7 E-7 |D^7/F# sG-7,C7|F#-7,B-7,E-7,A7,|lD^7   |D-7 G7 |E-7 Ebo7 |D-7 G7 |sC7,B7,Bb7 ][*AlEb-7 Bb7b13 |Eb-7 Ab7 |Db^7 Gb7 |F-7 Eo7 |Eb-7 Eb-7/Db |Ch7 F7b9 |Bb-7 sEb-7,Ab7,|UDb6,Gb7,Fh,Bb7,Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>Db</string>
+		<key>style</key>
+		<string>Ballad</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Ballad 1</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>{*AT44D- D-^7 |D-7 D-6 |G- G-^7 |G-7 sG-7,A7,|lD-   |D9#5   |G-7 C7b9 |N1F6 sEh,A7,}l            |N2F6 sEb-7,Ab7,][*BlDb^7 Bb-7 |Eb-7 Ab7 |Db6 Bb7#5 |Eb-7 Ab7 |Db^7 Bb-7 |Eb-7 Ab7 |G-7   |C7   ][*AD- D-^7 |D-7 D-6 |G- G-^7 |G-7 sG-7,A7,|lD-   |D9#5   |G-7 C7b9 |F6 sEh,A7,Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>D-</string>
+		<key>style</key>
+		<string>Ballad</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Ballad 2</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[*AT44C-6   |Dh7(C-^7/B) G7b9 |C-7(C-7/Bb)   |F7(C-6/A)   |Ab^7   |F-7   |Dh7   |G7b9   ][*AC-6   |Dh7(C-^7/B) G7b9 |C-7(C-7/Bb)   |F7(C-6/A)   |Ab^7   |F-7   |Fh7(B7)   |Bb7   ][*BEb^7 F-7 |G-7 F-7 |Eb^7 F-7 |G-7 F-7 |Eb^7 G7b9 |sC-7,B7,Bb-7,A7,|lAb^7   |Dh7 G7b9 ][*CC-6   |Dh7(C-^7/B) G7b9 |C-7(C-7/Bb)   |F7(C-6/A)   |Ab^7   |Dh7 G7b9 |C-7 B7 |Bb-7 Eb7 |Ab^7   |F-7 Bb7 |UEb6   |Dh7 G7b9 Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C-</string>
+		<key>style</key>
+		<string>Ballad</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Ballad 3</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44F^7   |Eh7 A7 |D-7 G7(Db7) |C-7 F7 |Bb7   |Bb-7 Eb7 |A-7 D7 |Ab-7 Db7 |G-7   |C7   |F7 D7 |G-7 C7 Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>F</string>
+		<key>style</key>
+		<string>Medium Up Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Blues - Bird</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44F7   |Bb7   |F7   |C-7 F7 |Bb7   |Bo7   |F7   |A-7 D7 |G-7   |C7   |F7 D7 |G-7 C7 Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>F</string>
+		<key>style</key>
+		<string>Medium Up Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Blues - Jazz</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44C-7   | x  | x  | x  |F-7   | x  |C-7   | x  |Ab7   |G7   |C-7   | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C-</string>
+		<key>style</key>
+		<string>Medium Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Blues - Minor</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T34C-11   | x  | x  | x  |C-11   | x  | x  | x  |F-11   | x  | x  | x  |C-11   | x  | x  | x  |F#h7   |F7#11   |E7alt   |A7alt   |C-11   | x  | x  | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C-</string>
+		<key>style</key>
+		<string>Waltz</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Blues - Minor Waltz</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44A7   | x  | x  | x  |D7   | x  |A7   | x  |E7   |D7   |A7   | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>A</string>
+		<key>style</key>
+		<string>Shuffle</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Blues - Simple</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44F7sus   |Bb7sus   |F7sus   | x  |Bb7sus   | x  |F7sus   | x  |C7sus   |Bb7sus   |F7sus   | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>F</string>
+		<key>style</key>
+		<string>Even 8ths</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Blues - Sus</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T34G7   | x  | x  | x  |G7   | x  | x  | x  |C7   | x  | x  | x  ||G7   | x  | x  | x  |D7#9   | x  |Eb7#9   |D7#9   |G7   | x  | x  | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>G</string>
+		<key>style</key>
+		<string>Waltz</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Blues - Waltz</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44C-7   | x  |F-7   | x  |Dh7   |G7b9   |C-7   | x  |Eb-7   |Ab7   |Db^7   | x  |Dh7   |G7b9   |C-7   |Dh7 G7b9 Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C-</string>
+		<key>style</key>
+		<string>Bossa Nova</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Bossa 1</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>{*AT44F^7   | x  |G7#11   | x  |G-7   |Gb7#11   |N1F^7   |Gb7   }        |N2F^7   | x  ][*BF#^7   | x  |B7   | x  |F#-7   | x  |D7   | x  |G-7   | x  |Eb7   | x  |A-7   |D7b9b5   |G-7   |C7b9b5   ][*AF^7   | x  |G7#11   | x  |G-7   |Gb7#11   |F^7   |Gb7   Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>F</string>
+		<key>style</key>
+		<string>Bossa Nova</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Bossa 2</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[*AT44D- |D-7/C |E7b9/B |x |Eh7/Bb |A7b9 |D- |sEh,A7,|lD- |sBh,E7,|lA- |x |Bb^7 |x |Eh7 |A7b9 ][*BD- |D-7/C |E7b9/B |x |Eh7/Bb |A7b9 |D- |D7b9 |G- |A7b9 |D- |D-7/C |E7b9/B |A7b9 |D- |sE-7,A7,]Y[*ClD^7 |B7/D# |E-7 |x |A7sus |A7 |Do7 |D^7 |F#-7 |Fo7 |E-7 |x |E7 |x |Eh7 |A7 ][*DD^7 |B-7 |E7 |x |F#7 |x |sB-7,Bb-7,|A-7,D7,|lG^7 |G-7 |F#-7 |B7 |E7 |A7 |F#-7 |B7 |E7 |A7 |D6 |A7 Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>D-</string>
+		<key>style</key>
+		<string>Bossa Nova</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Bossa 3</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44C7   | x  |F7   | x  |Bb7   | x  |Eb7   | x  ||Ab7   | x  |Db7   | x  |Gb7   | x  |B7   | x  |E7   | x  |A7   | x  |D7   | x  |G7   | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C</string>
+		<key>style</key>
+		<string>Medium Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Dominant 7 Workout</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44C7#11   | x  |F7#11   | x  |Bb7#11   | x  |Eb7#11   | x  ||Ab7#11   | x  |Db7#11   | x  |Gb7#11   | x  |B7#11   | x  |E7#11   | x  |A7#11   | x  |D7#11   | x  |G7#11   | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C</string>
+		<key>style</key>
+		<string>Medium Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Dominant 7#11 Workout</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44C7alt   | x  |F7alt   | x  |Bb7alt   | x  |Eb7alt   | x  ||Ab7alt   | x  |Db7alt   | x  |Gb7alt   | x  |B7alt   | x  |E7alt   | x  |A7alt   | x  |D7alt   | x  |G7alt   | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C</string>
+		<key>style</key>
+		<string>Medium Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Dominant 7alt Workout</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[*AT44Ab^7   | x  |D7/F#   |G-7   |F-7 Bb7 |Eb^7/G D7/F# |G-7/F   |C7/E   |F^7   |F#h7   |B7b13   |E-7   |A-7 D7 |G^7   ]*BC-7   |C#o7   |Bb^7/D   |Eb^7   |Eh7   |A7b13   |D-7 Db-7 |C-7 F7 |Bb^7   |Eb^7  Q ZY|QAb^7   |fDb^7   Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>Ab</string>
+		<key>style</key>
+		<string>Even 8ths</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Even 8ths 1</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44B-9   |C^7#11   |F^7#11   |E-9   |A-9 D-9 |G-9   |Eb^7#11   |Ab^7#11   |A-9   |D-9   |G-9   |C-9   |F-11   |E-9   |B-9   | x  |Eb-9   |A-9   |C-9   |F#-9   |B-9   |G-9   |Eb^7#11   |D-7   |C-9   | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>B-</string>
+		<key>style</key>
+		<string>Even 8ths</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Even 8ths 2</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[*AT44Bh7 E13 |A- A7#5 |D-7 G7b9 |C^7 A-7 |F-7 Bb7 |Eb^7 C-7 |A-7 D7 |G^7 E-7 |C#-7 F#7 |B^7 G#-7 |C#-7   |Bbh7 Eb7 |Ab-7   |Fh7 Bb7#9#5 |Eb-7 Eb-7/Db |B^7 Eb-7/Bb ][*BA7sus A13b9 |D^7/A   |A7sus   |D^7/A   |G7sus G13b9 |C^7/G   |G7sus G7 |C^7/G C13 ][*CB7#5   |E-7 Bb7#11 |A7#5   |D-7 Ab7#11 |G7#5   |C-7 Eb9 |Ab^7 C7b9 |F-9   |Dh7 G7#9#5 |C-7 Eb7sus |Ab^7 G7b9 |C^7 F#7#11 |Bh7 E13 |A-   |Ab7sus Ab13b9 |UC#-7 F#7 Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>A-</string>
+		<key>style</key>
+		<string>Even 8ths</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Even 8ths 3</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[*AT44Eb^7   | x  |Eb-6   |Ab7   |Bb^7   | x  |D-7   |G7   ][*BC7   | x  |F7   | x  |Bb6   | x  |F-7   |Bb7   ][*AEb^7   | x  |Eb-6   |Ab7   |Bb^7   | x  |D-7   |G7   ][*CC-7   |G7   |C-7   |Eb-7 Ab7 |Bb^7   |A-7 D7 |G-7 G-7/F |Eo7   |Bb6/F   |G7   |C-7   |F7   |UBb6   | x  |F-7   |Bb7   Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>Bb</string>
+		<key>style</key>
+		<string>Up Tempo Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Fast Jazz 1</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>{*AT44Bb6   | x  |F-7   |Bb7   |Eb^7   | x  |Ab7   | x  |Bb6   | x  |C7   | x  |N1C-7   |G7b9   |C-7   |F7#5   }|N2C-7   |F7   |Bb6   | x&lt;Fine&gt;  ]Y[*BC#-7   |F#7   |B^7   | x  |B-7   |E7   |A^7   | x  |A-7   |D7   |G^7   | x  |G-7   |C7   |C-7 &lt;D.C. al 2nd ending&gt;  |F7#5   ] </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>Bb</string>
+		<key>style</key>
+		<string>Up Tempo Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Fast Jazz 2</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>{T44E-7   |A7   |D^7   | x  |D-7   |G7   |C^7   | x  |C-7   |F7   |Bb^7   |G-7   |N1E-7   |F7   |Bb^7   |A7   }|N2E-7   |A7   |D^7   | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>D</string>
+		<key>style</key>
+		<string>Up Tempo Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Fast Jazz 3</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44D-7   |G7   |C^7   | x  |G-7   |C7   |F^7   | x  ||C-7   |F7   |Bb^7   | x  |F-7   |Bb7   |Eb^7   | x  |Bb-7   |Eb7   |Ab^7   | x  |Eb-7   |Ab7   |Db^7   | x  ||Ab-7   |Db7   |Gb^7   | x  |C#-7   |F#7   |B^7   | x  |F#-7   |B7   |E^7   | x  |B-7   |E7   |A^7   | x  |E-7   |A7   |D^7   | x  |A-7   |D7   |G^7   | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C</string>
+		<key>style</key>
+		<string>Medium Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>II-V-I in 12 Major Keys</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44D-7b5   |G7b9   |C-6   | x  |G-7b5   |C7b9   |F-6   | x  ||C-7b5   |F7b9   |Bb-6   | x  |F-7b5   |Bb7b9   |Eb-6   | x  |Bb-7b5   |Eb7b9   |Ab-6   | x  |D#-7b5   |G#7b9   |C#-6   | x  ||G#-7b5   |C#7b9   |F#-6   | x  |C#-7b5   |F#7b9   |B-6   | x  |F#-7b5   |B7b9   |E-6   | x  |B-7b5   |E7b9   |A-6   | x  |E-7b5   |A7b9   |D-6   | x  |A-7b5   |D7b9   |G-6   | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C-</string>
+		<key>style</key>
+		<string>Medium Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>II-V-I in 12 Minor Keys</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[*AT34Bb^7   |D7#5   |Eb^7   |G7b9   |C-7   |G7b9   |C-7   |F7   ][*BD-7   |C#o7   |C-7   |F7   |D-7   |C#o7   |C-7   |F7   ][*ABb^7   |D7#5   |Eb^7   |G7b9   |C-7   |G7b9   |C-7   |F7   ][*CF-7   |Bb7   |Eb^7   |Eo7   |Bb^7/F   |G7   |C-7   |F7   Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>Bb</string>
+		<key>style</key>
+		<string>Waltz</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Jazz Waltz 1</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>{*AT34D-7   |G7   |C^7   |F^7   |Bh7   |E7b9   |A-7   |Eb7#11   |D-7   |G7   |E-7   |A-7   |D-7   |G7   |N1E-7   |A7   }        |N2C^7   | x&lt;Fine&gt;  ][*BD7   |G7   |E-7   |A-7   |D-7   |G7   |C^7   |F^7   |F#h7   |B7b9   |E-7   |A7   |D-7   |A7   |D-7 &lt;D.C. al 2nd ending&gt;  |G7   Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C</string>
+		<key>style</key>
+		<string>Waltz</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Jazz Waltz 2</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T34Bb^7   | x  |Ah7   |D7b9   |G-7   |C7b9   |F-7   |Bb7   |Eb^7   | x  |Eb-7   |Ab7   |Db^7   | x  |C#-7   |F#7   |B^7   | x  |C-7   |F7   |D-7   |G7   |C-7   |F7   Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>Bb</string>
+		<key>style</key>
+		<string>Waltz</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Jazz Waltz 3</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[*AT44F-7   |Bb-7   |Eb7   |Ab^7   |Db^7   |D-7 G7 |C^7   | x  ][*BC-7   |F-7   |Bb7   |Eb^7   |Ab^7   |A-7 D7 |G^7   | x  ][*CA-7   |D7   |G^7   | x  |F#h7   |B7b9   |E^7   |C7b13   ][*DF-7   |Bb-7   |Eb7   |Ab^7   |Db^7   |Db-^7   |C-7   |Bo7   |Bb-7   |Eb7   |UAb^7   |Gh7 C7b9 Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>Ab</string>
+		<key>style</key>
+		<string>Medium Up Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Medium Jazz 1</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[*AT44Eh7   |A7b9   |C-7   |F7   |F-7   |Bb7   |Eb^7   |Ab7   |Bb^7   |Eh7 A7b9 |D-7   |Bb-7 Eb7 |F^7   |Eh7(G-7)  (C7) |Eb^7#11(Ah7)   |D7b9   ][*BG7b13   | x  |C-7   | x  |Ab7#11   | x  |Bb^7   | x  ][*CEh7   |A7b9   |Dh7   |G7b9   |Ch7   |F7b9   |Bb^7   | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>Bb</string>
+		<key>style</key>
+		<string>Medium Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Medium Jazz 2</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>{*AT44C-7   |F7   |Bb^7   |Eb^7   |Ah7   |D7b13   |G-6   | x  }[*BAh7   |D7b13   |G-6   | x  |C-7   |F7   |Bb^7   |Eb^7   ][*CAh7   |D7b13   |G-7 Gb7 |F-7 E7 |Ah7   |D7b13   |G-6   | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>G-</string>
+		<key>style</key>
+		<string>Medium Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Medium Jazz 3</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44C-   |C-b6   |   r|    ][F-   |F-b6   |   r|    ][Bb-   |Bb-b6   |   r|    ][Eb-   |Eb-b6   |   r|    ][G#-   |G#-b6   |   r|    ][C#-   |C#-b6   |   r|    ][F#-   |F#-b6   |   r|    ][B-   |B-b6   |   r|    ][E-   |E-b6   |   r|    ][A-   |A-b6   |   r|    ][D-   |D-b6   |   r|    ][G-   |G-b6   |   r|    Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C-</string>
+		<key>style</key>
+		<string>Even 8ths</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Modal - Aeolian</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[*AT44C-11 |C-69 | r|  | r|  | r|  ][Eb-11 |Eb-69 | r|  | r|  | r|  ][F#-11 |F#-69 | r|  | r|  | r|  ][A-11 |A-69 | r|  | r|  | r|  ][C#-11 |C#-69 | r|  | r|  | r|  ][E-11 |E-69 | r|  | r|  | r|  ][G-11 |G-69 | r|  | r|  | r|  ][Bb-11 |Bb-69 | r|  | r|  | r|  ][D-11 |D-69 | r|  | r|  | r|  ][F-11 |F-69 | r|  | r|  | r|  ][Ab-11 |Ab-69 | r|  | r|  | r|  ][B-11 |B-69 | r|  | r|  | r|  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C-</string>
+		<key>style</key>
+		<string>Up Tempo Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Modal - Dorian</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>{*AT44D9sus   | x  | x  | x  |F9sus   | x  | x  | x  }[*BEb9sus   | x  | x  | x  |C#-9   | x  | x  | x  ][*AD9sus   | x  | x  | x  |F9sus   | x  | x  | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>D</string>
+		<key>style</key>
+		<string>Even 8ths</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Modal - Herbs</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>{T44C^7#11   | x  | x  | x  }{Db^7#11   | x  | x  | x  }{D^7#11   | x  | x  | x  }{Eb^7#11   | x  | x  | x  }{E^7#11   | x  | x  | x  }{F^7#11   | x  | x  | x  }{Gb^7#11   | x  | x  | x  }{G^7#11   | x  | x  | x  }{Ab^7#11   | x  | x  | x  }{A^7#11   | x  | x  | x  }{Bb^7#11   | x  | x  | x  }{Bb^7#11   | x  | x  | x  } </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C</string>
+		<key>style</key>
+		<string>Medium Up Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Modal - Lydian</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[*AT44D-11   | x  | x  | x  |D-11   | x  | x  | x  ][*AD-11   | x  | x  | x  |D-11   | x  | x  | x  ][*BEb-11   | x  | x  | x  |Eb-11   | x  | x  | x  ][*AD-11   | x  | x  | x  |D-11   | x  | x  | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>D-</string>
+		<key>style</key>
+		<string>Up Tempo Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Modal - Miles</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T34Db7   | x  | x  |T24Db7   |T34Db7   | x  | x  |T24Db7   |T34Gb7   | x  | x  |T24Gb7   |T34Db7   | x  | x  |T24Db7   |T34A7   | x  |Ab7,   |T24Ab7   |T34Db7   | x  |Ab7,   |T24Ab7   Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>Db</string>
+		<key>style</key>
+		<string>Up Tempo Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Odd Meter 11-4</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[*AT54G^7   | x  |Bb-7   |Eb7   |G^7   | x  |B-7   |E7b9   ][*BA-7   |E7b9   |A-7   | x  |Eb7   | x  |A-7   |D7   ][*AG^7   | x  |Bb-7   |Eb7   |G^7   | x  |B-7   |E7b9   ][*CA-7   |E7b9   |A-7   |C-6   |B-7 Bbo7 |A-7 D7 |G6   |A-7 D7 Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>G</string>
+		<key>style</key>
+		<string>Medium Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Odd Meter 5-4</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>{*AT74F-7   |Db7 C7b9 |F-7 C7b9 |Db7   |Gh7 C7b9 |sF-7,E7,Eb-7,D7,|N1lDb7   |Gh7 C7b9 }        |N2Db7 C7b9 |F-6   ][*BBb-7 Eb7 |Ab^7   |Bb-7 Eb7 |Ab^7   |D-7 G7 |C^7   |Db7   |C7b9   ][*AF-7   |Db7 C7b9 |F-7 C7b9 |Db7   |Gh7 C7b9 |sF-7,E7,Eb-7,D7,|lDb7 C7b9 |F-6   Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>F-</string>
+		<key>style</key>
+		<string>Medium Up Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Odd Meter 7-4</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>{*AT78Gh7   |C7b9   |F-6   | x  |Dh7   |G7#5   |C^7   | x  }[*BC-7   |F7   |Bb^7   | x  |Ab7   | x  |Dh7   |G7   ][*AGh7   |C7b9   |F-6   | x  |Dh7   |G7#5   |C^7   | x  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C</string>
+		<key>style</key>
+		<string>Even 8ths</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Odd Meter 7-8</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[*AT54G^7   |T44G6   |T54G^7   |T44G6   |T54G-7   |T44G-6   |T54G-7   |T44G-6   |T54Ah7   |T44D7b9   |T54Bh7   |T44E7b9   |T54A-7   |T44D7   |T54G^7   |T44G^7 &lt;Fine&gt;  ]Y[*BT54C-7   |T44F7   |T54Bb^7   |T44G-7   |T54C-7   |T44F7   |T54Bb^7   |T44Bb^7   |T54A-7   |T44D7   |T54G^7   |T44G^7   |T54F#-7   |T44B7   |T54E^7   |T44&lt;D.C. al Fine&gt;A-7 D7 Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>G</string>
+		<key>style</key>
+		<string>Medium Up Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Odd Meter 9-4</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>{*AT44Bb^7 G7 |C-7 F7 |D-7 G7 |C-7 F7 |F-7 Bb7 |Eb7 Ab7 |N1D-7 G7 |C-7 F7 }        |N2C-7 F7 |Bb6   ][*BD7   | x  |G7   | x  |C7   | x  |F7   | x  ][*ABb^7 G7 |C-7 F7 |D-7 G7 |C-7 F7 |F-7 Bb7 |Eb7 Ab7 |C-7 F7 |Bb6   Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>Bb</string>
+		<key>style</key>
+		<string>Medium Up Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Rhythm Changes</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>{*AT44A-7   |D7   |A-7   |D7   |A-7   |G-7   |F^7   | x  ][*BBb^7   |F^7   |Bb^7   |F^7   |Bb^7   |F^7   |D-7  Q |N1E7sus E7 |A-7  |D7  |A-7  |D7  }|N2F/G G7 ][*CC^7   |F^7   |Bb^7   |A-7   |G-7   |F^7   |D-7   |E7sus E7 ]{A-7   |&lt;D.C. al Coda&gt;D7   }        Y[QF/G G7 {C^7  |F^7  }C^7  |xf  Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>A-</string>
+		<key>style</key>
+		<string>Rock Pop</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Rock 1</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[*iC   | x  | x  | x  ]Y{*AC D- |E- F |G7   | x  }|F   |G7   |F   |G7   |F E- |D- C |F E- |D- C |D-   |F   |G7   | x  ]{*BC F |G7   |C F |G7   }|C F |G7   |C F |G7   |G   Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C</string>
+		<key>style</key>
+		<string>Rock Pop</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Rock 2</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>{*AT44F   |E-7 A7 |D-  sD-/C,|lBb C7 |F  sE-,|lD-7 G7 |Bb F }    [*BE-7 A7 |sD-,C,Bb,D-/A,|lG-7 C7 |F   |E-7 A7 |sD-,C,Bb,D-/A,|lG-7 C7 |F   ][*AF   |E-7 A7 |D-  sD-/C,|lBb C7 |Y|F  sE-,|lD-7 G7 |&lt;D.C. al Coda&gt;Bb F,Q, Z    YY[QD-7 G7 |Bb F Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>F</string>
+		<key>style</key>
+		<string>Rock Pop</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Rock 3</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44D-7 G7 |C^7 F^7 |Bh7 E7 |A-6   |Eb-7 Ab7 |Db^7 Gb^7 |Ch7 F7 |Bb-6   |E-7 A7 |D^7 G^7 |C#h7 F#7 |B-6   |F-7 Bb7 |Eb^7 Ab^7 |Dh7 G7 |C-6   |F#-7 B7 |E^7 A^7 |D#h7 G#7 |C#-6   |G-7 C7 |F^7 Bb^7 |Eh7 A7 |D-6   |Ab-7 Db7 |Gb^7, Cb^7 |Fh7 Bb7 |Eb-6   |A-7 D7 |G^7, C^7 |F#h7 B7 |E-6   |Bb-7 Eb7 |Ab^7 Db^7 |Gh7 C7 |F-6   |B-7 E7 |A^7 D^7 |G#h7 C#7 |F#-6   |C-7 F7 |Bb^7 Eb^7 |Ah7 D7 |G-6   |C#-7 F#7 |B^7 E^7 |Bbh7 Eb7 |Ab-6   Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>C</string>
+		<key>style</key>
+		<string>Medium Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Tonal Cycle of 5ths in 12 Keys</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44B^7 D7 |G^7 Bb7 |Eb^7   |A-7 D7 |G^7 Bb7 |Eb^7 F#7 |B^7   |F-7 Bb7 |Eb^7   |A-7 D7 |G^7   |C#-7 F#7 |B^7   |F-7 Bb7 |UEb^7   |C#-7 F#7 Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>Eb</string>
+		<key>style</key>
+		<string>Medium Up Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Trane Changes 1</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[T44E-7 F7 |Bb^7 Db7 |Gb^7 A7 |D^7   |D-7 Eb7 |Ab^7 B7 |E^7 G7 |C^7   |C-7 Db7 |Gb^7 A7 |D^7 F7 |Bb^7   |E-7   |F7   |Bb^7   |A7(Eb7)   Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>Bb</string>
+		<key>style</key>
+		<string>Medium Up Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Trane Changes 2</string>
+	</dict>
+	<dict>
+		<key>chordProgression</key>
+		<string>[*AT44F^7 Ab7 |Db^7 E7 |A^7 C7 |C-7 F7 |Bb^7 Db7 |Gb^7 A7 |D-7 G7 |G-7 C7 ][*AF^7 Ab7 |Db^7 E7 |A^7 C7 |C-7 F7 |Bb^7 Ab7 |Db^7 E7 |A^7 C7 |F^7   ][*BC-7 F7 |E-7 A7 |D^7 F7 |Bb^7   |Eb-7   |Ab7   |Db^7   |G-7 C7 ][*AF^7 Ab7 |Db^7 E7 |A^7 C7 |C-7 F7 |Bb^7 Ab7 |Db^7 E7 |A^7 C7 |F^7   Z </string>
+		<key>composer</key>
+		<string>Exercise</string>
+		<key>keySignature</key>
+		<string>F</string>
+		<key>style</key>
+		<string>Medium Up Swing</string>
+		<key>timeSignature</key>
+		<string>n</string>
+		<key>title</key>
+		<string>Trane Changes 3</string>
+	</dict>
+</array>
+</plist>
