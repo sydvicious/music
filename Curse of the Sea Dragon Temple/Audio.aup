@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Audio_data" version="1.3.0" audacityversion="2.1.2" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="20.0485229492" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="TITLE" value="The Curse of the Sea Dragon Temple"/>
+		<tag name="YEAR" value="2016"/>
+		<tag name="ARTIST" value="Elizabeth Polk"/>
+		<tag name="COMMENTS" value="©2016 Elizabeth Polk. All Rights Reserved."/>
+	</tags>
+	<wavetrack name="2017-01-11 The Curse of the Sea Dragon Temple" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3950595">
+				<waveblock start="0">
+					<simpleblockfile filename="e000037a.au" len="173057" min="-0.330858" max="0.305142" rms="0.040356"/>
+				</waveblock>
+				<waveblock start="173057">
+					<simpleblockfile filename="e0000777.au" len="173058" min="-0.540389" max="0.495053" rms="0.066249"/>
+				</waveblock>
+				<waveblock start="346115">
+					<simpleblockfile filename="e00005c7.au" len="262144" min="-0.544726" max="0.51733" rms="0.063798"/>
+				</waveblock>
+				<waveblock start="608259">
+					<simpleblockfile filename="e00003fe.au" len="262144" min="-0.444151" max="0.491413" rms="0.070915"/>
+				</waveblock>
+				<waveblock start="870403">
+					<simpleblockfile filename="e000007e.au" len="262144" min="-0.186293" max="0.202825" rms="0.018598"/>
+				</waveblock>
+				<waveblock start="1132547">
+					<simpleblockfile filename="e0000a09.au" len="262144" min="-0.467958" max="0.496399" rms="0.065928"/>
+				</waveblock>
+				<waveblock start="1394691">
+					<simpleblockfile filename="e00008aa.au" len="262144" min="-0.598776" max="0.545978" rms="0.067215"/>
+				</waveblock>
+				<waveblock start="1656835">
+					<simpleblockfile filename="e0000c21.au" len="262144" min="-0.59198" max="0.6442" rms="0.086443"/>
+				</waveblock>
+				<waveblock start="1918979">
+					<simpleblockfile filename="e0000a4f.au" len="262144" min="-0.532535" max="0.494487" rms="0.06261"/>
+				</waveblock>
+				<waveblock start="2181123">
+					<simpleblockfile filename="e00000b6.au" len="262144" min="-0.50492" max="0.489528" rms="0.060224"/>
+				</waveblock>
+				<waveblock start="2443267">
+					<simpleblockfile filename="e00000c9.au" len="262144" min="-0.575884" max="0.545353" rms="0.08201"/>
+				</waveblock>
+				<waveblock start="2705411">
+					<simpleblockfile filename="e0000d29.au" len="262144" min="-0.65428" max="0.71164" rms="0.137622"/>
+				</waveblock>
+				<waveblock start="2967555">
+					<simpleblockfile filename="e0000c5e.au" len="262144" min="-0.813547" max="0.881444" rms="0.151932"/>
+				</waveblock>
+				<waveblock start="3229699">
+					<simpleblockfile filename="e0000036.au" len="262144" min="-0.221443" max="0.274401" rms="0.050574"/>
+				</waveblock>
+				<waveblock start="3491843">
+					<simpleblockfile filename="e0000b22.au" len="262144" min="-0.505725" max="0.488398" rms="0.061495"/>
+				</waveblock>
+				<waveblock start="3753987">
+					<simpleblockfile filename="e0000b92.au" len="196608" min="-0.091283" max="0.096499" rms="0.022732"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
